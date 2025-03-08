@@ -46,7 +46,7 @@ Team Members
 - Kurt Anand
 
 Course Information
-- This project was completed as part of the Quantitative Data Analytics course.
+- This project was completed as part of the Quantitative Data Analytics capstone project at the University of Waterloo.
 
 License
 - This project is licensed under the MIT License.
